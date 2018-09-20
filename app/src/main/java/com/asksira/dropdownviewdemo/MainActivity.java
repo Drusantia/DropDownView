@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
         list.add("All");
         list.add("odd");
         list.add("even");
+        list.add("This is a very long option to test if I select this, the arrow shouldn't be pushed off the view.");
         return list;
     }
 }
